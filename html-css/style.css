@@ -1,0 +1,206 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.navbar h1{
+	color: coral;
+	font-family: sans-serif;
+	float: left;
+	padding-left: 20px;
+	padding-top: 12px
+}
+ 
+.navbar ul{
+	float: right;
+	list-style: none;
+}
+
+.navbar{
+	background-color: #555;
+	height: 58px
+}
+
+.navbar ul li{
+	float: left;
+	
+}
+
+.navbar ul a{
+	text-decoration: none;
+	font-family: sans-serif;
+	display: inline-block;
+	padding: 20px;
+	color: coral;
+	
+}
+
+
+span{
+	color:cyan
+}
+
+
+.navbar ul a:hover,
+.navbar ul a.current{
+	color: #fff;
+	background-color: #444
+}
+
+.najim{
+	text-align: center;
+	font-family: sans-serif;
+	padding-top: 100px;
+	
+}
+
+.najim h1{
+	font-size: 55px;
+	color: #000;
+	padding-bottom: 20px;
+}
+
+.najim p{
+	font-size: 20px;
+	padding: 0 30px;
+}
+
+
+#container{
+	background-image: url(gory_sneg_3840%D1%852160.jpg);
+	padding-bottom: 300px;
+	background-position: center;
+	background-size: cover;
+		
+}
+
+.header {
+	background-color: #000;
+	display: flex
+}
+
+.vo{
+	width: 50%;
+	text-align: center;
+	font-family: sans-serif;
+}
+
+.vo h1{
+	padding-top: 100px ;
+	padding-bottom: 50px;
+	font-size: 55px;
+	color:coral;
+}
+
+.vo p{
+	font-size: 20px;
+	color: #fff;
+	padding-bottom: 25px
+}
+
+.vo button{
+	font-size: 25px;
+	padding: 7px;
+	border-radius: 7px;
+	border: 4px solid cyan;
+	color: #fff;
+	background-color: rgb(23,52,89);
+	cursor: pointer
+}
+
+.vo button:hover{
+	background-color: #fff;
+	color: rgb(23,52,89);
+}
+
+footer{
+	text-align: center;
+	font-size: 35px;
+	font-family: sans-serif;
+	letter-spacing: 10px;
+	color: coral;
+	padding: 20px 0;
+	background-color: #555;
+}
+
+
+ .boq{
+	font-family: sans-serif;
+	 width: 47%;
+	 float: left;
+	 text-align: center;
+	 
+	 
+}
+
+.boq h1{
+	padding: 20px 0;
+	color: coral;
+}
+
+.boq p{
+	padding: 10px 30px;
+	font-size: 25px;
+}
+
+.clr{
+	clear: both
+}
+
+.non img{
+	display: flex;
+	float: right;
+	border-radius: 30%;
+	padding: 15px
+		
+		
+
+}
+
+.non{
+	box-sizing: border-box;
+}
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
